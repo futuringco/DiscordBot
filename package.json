@@ -1,0 +1,25 @@
+{
+  "name": "DiscordBot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/futuringco/DiscordBot.git"
+  },
+  "keywords": [],
+  "author": "Futuring",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/futuringco/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/futuringco/DiscordBot#readme",
+  "description": "Just a bootstrap for a Discord Bot"
+}
