@@ -5,7 +5,7 @@ This bootstrap has the only utils if you want to write from zero a Discord bot.
 
 Follo this simple guide:
 0) Download or clone this repository
-1) Navigate the folder wit your Terminal (or PowerShell) and run ```npm install --save```
+1) Navigate the folder wit your Terminal (or PowerShell) and run ```npm install```
 2) Create a new application from here https://discordapp.com/developers/applications/
 3) Create a Bot from the "Bot" tab on the left
 4) Invite your brand new bot from a link similar to this https://discordapp.com/oauth2/authorize?client_id=**<Bot_Client_ID>**&scope=bot&permissions=**0**
